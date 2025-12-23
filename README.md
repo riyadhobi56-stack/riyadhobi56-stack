@@ -6,7 +6,7 @@ md
 <h3 align="center">Aspiring AI/ML Enthusiast | Programmer | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;HTML+%7C+C%2B%2B+%7C+Python;Exploring+AI+%26+Machine+Learning;Learning+by+Building+Projects+✨" alt="Typing SVG" />
+  <img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740&q=80" alt="Typing SVG" />
 </p>
 
 ---
